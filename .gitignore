@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+server/public/htmlcompiled/partials.js
+server/public/prod/start.css
+server/public/prod/start.js
+*.DS_Store
+**/.DS_Store
